@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="builder" />
+        <module name="factory" />
+        <module name="mediator" />
+        <module name="prototype" />
+        <module name="proxy" />
+        <module name="singleton" />
+        <module name="templatemethod" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="builder" target="1.5" />
+      <module name="design-patterns" target="1.5" />
+      <module name="factory" target="1.5" />
+      <module name="mediator" target="1.5" />
+      <module name="prototype" target="1.5" />
+      <module name="proxy" target="1.5" />
+      <module name="singleton" target="1.5" />
+      <module name="templatemethod" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
