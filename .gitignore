@@ -11,6 +11,7 @@ classes
 
 # Maven work
 target
+target/
 
 # IntelliJ IDEA work
 *.idea

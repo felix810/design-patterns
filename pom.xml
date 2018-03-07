@@ -11,12 +11,13 @@
     <modules>
         <module>singleton</module>
         <module>factory</module>
-        <module>templatemethod</module>
+        <module>template-method</module>
         <module>builder</module>
         <module>proxy</module>
         <module>prototype</module>
         <module>mediator</module>
         <module>command</module>
+        <module>handler</module>
     </modules>
 
     <dependencies>
