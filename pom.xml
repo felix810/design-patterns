@@ -19,6 +19,7 @@
         <module>command</module>
         <module>handler</module>
         <module>decorator-pattern</module>
+        <module>strategy</module>
     </modules>
 
     <dependencies>
